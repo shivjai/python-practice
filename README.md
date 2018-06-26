@@ -1,2 +1,2 @@
 # python-practice
-programs that i did while practicing python
+Programs that i did while practicing python.
